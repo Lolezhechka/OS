@@ -1,0 +1,5 @@
+﻿  OSproject.cpp
+C:\Users\Loleg\Desktop\OSI\OSproject\Pipes.hpp(39,47): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  (compiling source file 'OSproject.cpp')
+  
+  OSproject.vcxproj -> C:\Users\Loleg\Desktop\OSI\OSproject\x64\Debug\Sender.exe
